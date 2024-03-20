@@ -5,7 +5,7 @@ add to cart
 
 ## Deployed App
 
-Open [https://pokemon-gallery-opal.vercel.app/](https://pokemon-gallery-opal.vercel.app/) to view deployed app in the browser.
+Open [https://add-to-cart-task-ochre.vercel.app/](https://add-to-cart-task-ochre.vercel.app/) to view deployed app in the browser.
 
 ## Running Instructions
 
@@ -36,24 +36,40 @@ my-react-app
 │  ├─ App.tsx
 │  ├─ components
 │  │  ├─ Carts.tsx
-│  │  └─ NavBar.tsx
+│  │  ├─ Footer.tsx
+│  │  ├─ NavBar.tsx
+│  │  ├─ ProductDetails.tsx
+│  │  └─ SimilarProducts.tsx
 │  ├─ images
 │  │  ├─ adidas.svg
 │  │  ├─ black.png
+│  │  ├─ card.png
 │  │  ├─ cart.svg
+│  │  ├─ cash.png
 │  │  ├─ close.svg
 │  │  ├─ dd8.png
+│  │  ├─ facebook.svg
+│  │  ├─ img.png
+│  │  ├─ img2.png
+│  │  ├─ img3.png
+│  │  ├─ img4.png
+│  │  ├─ instrgram.svg
+│  │  ├─ linkedin.svg
+│  │  ├─ logo.svg
 │  │  ├─ minus.svg
 │  │  ├─ plus.svg
 │  │  ├─ red.png
+│  │  ├─ sss.svg
 │  │  ├─ star.svg
-│  │  └─ star2.svg
+│  │  ├─ star2.svg
+│  │  ├─ twitter.svg
+│  │  └─ visa.png
 │  ├─ index.scss
 │  ├─ main.tsx
 │  ├─ pages
 │  │  └─ SingleProduct.tsx
-│  ├─ Services
-│  │  └─ data.ts
+│  ├─ services
+│  │  └─ products.ts
 │  ├─ types
 │  │  └─ index.d.ts
 │  └─ vite-env.d.ts
